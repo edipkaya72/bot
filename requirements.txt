@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+web3
+gql[aiohttp]
+python-dotenv
+aiohttp<3.9.0
+setuptools
